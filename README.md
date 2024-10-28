@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NegativoPai
-- 👀 I’m interested in: Looking for a internship to learn more;
+- 👀 I’m interested in: Looking for a internship;
 - 🌱 I’m currently learning: Java, Python, C++, HTML, CSS and JavaScript;
 - 💻 Favorite Languages: C++ and Java;
 - 💞️ I’m looking to collaborate on: Anything;
