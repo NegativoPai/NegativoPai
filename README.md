@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning: Java, Python, C++, HTML, CSS and JavaScript;
 - 💻 Favorite Languages: C++ and Java;
 - 💞️ I’m looking to collaborate on: Anything;
-- 📫 How to reach me: joaomanoel_mle@hotmail.com
+- 📫 How to reach me: https://t.me/Negativo_Pai
 - ⚡ Fun fact: I dont know 👍;
 - 🎮 Favorite Games: All Metal Gear games And Cyberpunk 2077;
 
