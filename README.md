@@ -4,8 +4,6 @@
 - 💻 Favorite Languages: C++ and Java;
 - 💞️ I’m looking to collaborate on: Anything;
 - 📫 How to reach me: https://t.me/Negativo_Pai
-- ⚡ Fun fact: I dont know 👍;
-- 🎮 Favorite Games: All Metal Gear games And Cyberpunk 2077;
 
 ## Estudando:
 <div style="display: inline_block"><br/>
@@ -15,19 +13,6 @@
   <img aling="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img aling="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img aling="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</div>
-
-## IDE Favorita:
-<div>
-   <img aling="center" alt="vs" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-</div>
-
-## Grupo de estudos e jogos:
-<img aling="center" alt="discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-
-## Contato:
-<div>
-   <img aling="center" alt="telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </div>
 
 <picture align="center">
