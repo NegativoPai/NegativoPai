@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @NegativoPai
+- 👋 Hi, I’m João Manoel
 - 👀 I’m interested in: Looking for a internship;
 - 🌱 I’m currently learning: Java, Python, C++, HTML, CSS and JavaScript;
 - 💻 Favorite Languages: C++ and Java;
-- 💞️ I’m looking to collaborate on: Anything;
-- 📫 How to reach me: https://t.me/Negativo_Pai
 
 ## Estudando:
 <div style="display: inline_block"><br/>
