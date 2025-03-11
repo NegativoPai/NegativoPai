@@ -1,6 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NegativoPai&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)
-
 ## Estudando Atualmente
 <div style="display: inline_block">
   <h6>Desenvolvimento Web:</h6>
@@ -32,12 +29,11 @@
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
 </div>
 
-## Redes
-<div style="display: inline_block"><br/>
-  <a href="www.linkedin.com/in/joao-manoel-da-silva-santos" target="_blank" rel="noopener">
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
-  </a>
-</div>
+## Status
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NegativoPai&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)
+
+<br/>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
