@@ -30,8 +30,8 @@
 </div>
 
 ## Status
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NegativoPai&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NegativoPai&show_icons=true&theme=dark&locale=pt-br&include_all_commits=true&ring_color=79FF97&border_style=hidden)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark&locale=pt-br)
 
 <br/>
 
