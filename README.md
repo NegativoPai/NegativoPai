@@ -5,17 +5,16 @@
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-  <h6>Desenvolvimento Mobile:</h6>
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" />
-  <h6>Extra:</h6>
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-plain.svg" />
 </div>
-
+<div style="display: inline-block">
+  <h6>Desenvolvimento Back-End:</h6>
+  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+</div>
+<div style="display: inline-block">
+  <h6>FrameWorks:</h6>
+  <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+</div>
+  
 ## Linguagens que gosto
 <div style="display: inline_block"><br/>
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
@@ -27,6 +26,11 @@
 <div style="display: inline_block"><br/>
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
+</div>
+
+## Sobre
+<div style="display: inline_block"><br/> 
+<strong> Desejo me tornar um programador Full-Stack. Atualmente, estou focado em Java para o Back-end e em desenvolvimento web, que é onde possuo maior proficiência no momento. Ainda não desenvolvi um projeto sólido, pois sinto que preciso evoluir mais para alcançar esse nível. Por isso, estudo constantemente para me tornar o programador que almejo ser. Busco um estágio na área para ganhar direcionamento prático — entender o que fazer e como pensar ao desenvolver um projeto. </strong>
 </div>
 
 ## Status
