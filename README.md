@@ -14,6 +14,11 @@
   <h6>FrameWorks:</h6>
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
 </div>
+
+<div>
+  <h6>Extra:</h6>
+  <b>Física/Mecânica quântica/Computação Quantica</b>
+</div>
   
 ## Linguagens que gosto
 <div style="display: inline_block"><br/>
@@ -28,9 +33,14 @@
   <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
 </div>
 
-## Sobre
+## Sobre Mim
 <div style="display: inline_block"><br/> 
-<strong> Desejo me tornar um programador Full-Stack. Atualmente, estou focado em Java para o Back-end e em desenvolvimento web, que é onde possuo maior proficiência no momento. Ainda não desenvolvi um projeto sólido, pois sinto que preciso evoluir mais para alcançar esse nível. Por isso, estudo constantemente para me tornar o programador que almejo ser. Busco um estágio na área para ganhar direcionamento prático — entender o que fazer e como pensar ao desenvolver um projeto. </strong>
+Desde pequeno, meu sonho sempre foi ser um <b>cientista</b> — alguém capaz de fazer descobertas e criar algo útil para a humanidade.  
+Atualmente curso <b>Ciência da Computação</b> e estou em constante aprendizado, desenvolvendo minhas habilidades em programação e no universo da tecnologia. Busco um estágio que me traga experiência prática, me ajude a entender melhor como pensar e agir no desenvolvimento de projetos e me prepare para os próximos passos da minha jornada.  
+
+</br>Recentemente, descobri uma grande paixão pela área de **Computação Quântica**, que é onde pretendo atuar futuramente. Após concluir minha graduação em Ciência da Computação, desejo iniciar uma formação em **Física**, com foco em **Mecânica Quântica**, e seguir em direção ao **mestrado e doutorado** em ambas as áreas.  
+
+Meu propósito é unir esses dois mundos — a Computação e a Física — para contribuir no avanço da **tecnologia quântica** e explorar suas aplicações em problemas complexos do mundo real.
 </div>
 
 ## Status
