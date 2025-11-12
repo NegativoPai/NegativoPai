@@ -165,8 +165,18 @@ Meu propósito é unir esses dois mundos — a Computação e a Física — para
 
 
 ## Status
+<div>
+  <ul align="center">
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NegativoPai&show_icons=true&theme=dark&locale=pt-br&include_all_commits=true&ring_color=79FF97&border_style=hidden)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark&locale=pt-br)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NegativoPai&layout=compact&theme=dark&locale=pt-br)
+  
+  </ul>
+  <ul align="center">
+  
+![Straks Stats](https://github-readme-streak-stats.herokuapp.com/?user=NegativoPai&theme=dark&locale=pt-br)
+  </ul>
+</div>
 
 <br/>
 
