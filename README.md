@@ -4,63 +4,17 @@
 
 <div align="center">
 
-### Desenvolvimento Web
+### Desenvolvimento de Jogos
 
 <table>
   <tr>
-    <td align="center">
-      <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /><br>
-      <b>HTML5</b>
+    <td align="center"> 
+     <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=unity" /></a>
+      <p>Unity</p>
     </td>
     <td align="center">
-      <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /><br>
-      <b>CSS3</b>
-    </td>
-    <td align="center">
-      <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /><br>
-      <b>JavaScript</b>
-    </td>
-    <td align="center">
-      <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" /><br>
-      <b>Node.js</b>
-    </td>
-  </tr>
-</table>
-
-### Desenvolvimento Back-End
-
-<table>
-  <tr>
-    <td align="center">
-      <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /><br>
-      <b>Java</b>
-    </td>
-    <td align="center">
-      <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /><br>
-      <b>Python</b>
-    </td>
-  </tr>
-</table>
-
-### Frameworks
-
-<table>
-  <tr>
-    <td align="center">
-      <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" /><br>
-      <b>Spring</b>
-    </td>
-    <td align="center">
-      <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /><br>
-      <b>React</b>
-    </td>
-    <td align="center">
-      <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" /><br>
-      <b>Django</b>
-    </td>
-    <td align="center">
-      <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /><br>
-      <b>TailwindCSS</b>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs" /></a>
+      <p>C Sharp</p>
     </td>
   </tr>
 </table>
@@ -112,16 +66,16 @@
 <table>
   <tr>
     <td align="center">
-      <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /><br>
-      <b>Java</b>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java" /></a>
+      <p>Java</p>
     </td>
     <td align="center">
-      <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" /><br>
-      <b>C++</b>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp" /></a>
+      <p>C++</p>
     </td>
     <td align="center">
-      <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /><br>
-      <b>Python</b>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py" /></a>
+    <p>Python</p>
     </td>
   </tr>
 </table>
@@ -133,16 +87,16 @@
 <table>
   <tr>
     <td align="center">
-      <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" /><br>
-      <b>Windows 11</b>
+     <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=windows" /></a>
+      <p>Windows 11</p>
     </td>
     <td align="center">
-      <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" /><br>
-      <b>Arch Linux</b>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=arch" /></a>
+      <p>Arch Linux</p>
     </td>
     <td align="center">
-      <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" /><br>
-      <b>Ubuntu</b>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ubuntu" /></a>
+      <p>Ubuntu</p>
     </td>
   </tr>
 </table>
