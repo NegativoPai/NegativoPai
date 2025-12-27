@@ -130,6 +130,10 @@ Meu propósito é unir esses dois mundos — a Computação e a Física — para
   
 ![Straks Stats](https://github-readme-streak-stats.herokuapp.com/?user=NegativoPai&theme=dark&locale=pt-br)
   </ul>
+  <ul align="center">
+  
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=NegativoPai&theme=dark&locale=pt-br&layout=compact&custom_title=Estat%C3%ADsticas%20WakaTime)
+  </ul>
 </div>
 
 <br/>
