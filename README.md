@@ -128,7 +128,13 @@ Meu propósito é unir esses dois mundos — a Computação e a Física — para
   </ul>
   <ul align="center">
   
-![Straks Stats](https://github-readme-streak-stats.herokuapp.com/?user=NegativoPai&theme=dark&locale=pt-br)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NegativoPai&locale=pt_BR&background=1E1E1E&border=9100FF&stroke=9100FF&ring=FFA200&fire=FFA200&currStreakNum=FFA200&sideNums=9100FF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&excludeDaysLabel=FFFFFF)](https://git.io/streak-stats)
+
+  </ul>
+  <ul align="center">
+    
+[![wakatime](https://wakatime.com/badge/user/2f0990be-5d37-4a7f-a96a-211aa76d526e.svg?style=default&color=9100ff&label_color=000000)](https://wakatime.com/@2f0990be-5d37-4a7f-a96a-211aa76d526e)
+    
   </ul>
 </div>
 
