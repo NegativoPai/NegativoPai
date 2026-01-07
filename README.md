@@ -108,12 +108,7 @@
 ## Sobre Mim
 
 <div style="display: inline_block"> 
-Desde pequeno, meu sonho sempre foi ser um <b>cientista</b> — alguém capaz de fazer descobertas e criar algo útil para a humanidade.  
-Atualmente curso <b>Ciência da Computação</b> e estou em constante aprendizado, desenvolvendo minhas habilidades em programação e no universo da tecnologia. Busco um estágio que me traga experiência prática, me ajude a entender melhor como pensar e agir no desenvolvimento de projetos e me prepare para os próximos passos da minha jornada.  
-
-<br/>Recentemente, descobri uma grande paixão pela área de <b>Computação Quântica</b>, que é onde pretendo atuar futuramente. Após concluir minha graduação em Ciência da Computação, desejo iniciar uma formação em <b>Física</b>, com foco em <b>Mecânica Quântica</b>, e seguir em direção ao <b>mestrado e doutorado</b> em ambas as áreas.  
-
-Meu propósito é unir esses dois mundos — a Computação e a Física — para contribuir no avanço da <b>tecnologia quântica</b> e explorar suas aplicações em problemas complexos do mundo real.
+Cientista da Computação em formação (5º período), com interesse em compreender sistemas do nível mais baixo ao mais alto da computação. Atuo como desenvolvedor full-stack, com foco em desenvolvimento back-end utilizando Java, C++ e Python e front-end com JavaScript, HTML e CSS. Possuo familiaridade com frameworks como Django, Spring, React e TailwindCSS. Realizo estudos complementares em sistemas operacionais, redes de computadores, cibersegurança, bancos de dados e SQL. Busco domínio progressivo da computação como ciência, priorizando fundamentos sólidos, visão sistêmica e aprendizado contínuo.
 </div>
 
 
