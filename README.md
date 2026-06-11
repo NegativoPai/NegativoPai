@@ -7,11 +7,7 @@ e autodidata em física computacional. Objetivo de longo prazo: pesquisa
 científica — segunda graduação em Física na fila.
 
 **Trabalhando agora:**
-- ⚛️ [QuantumPy](https://github.com/NegativoPai/QuantumPy) — soluções numéricas
-  da equação de Schrödinger, redes neurais para funções de onda e reprodução
-  da constante de Rydberg com dados espectrais do NIST (99,978%)
-
-**Stack:** Python · NumPy/SciPy · PyTorch · scikit-learn · Django · React · TypeScript · PostgreSQL · Docker
+- ⚛️ [QuantumPy](https://github.com/NegativoPai/QuantumPy) — meu caderno aberto de estudos de mecânica quântica computacional. Implemento simulações em Python com apoio de IA e referências que documento no repositório, e estudo a teoria por trás de cada sistema antes de avançar pro próximo. Começando do começo: partícula em poço infinito e poço duplo. Não é pesquisa — é aprendizado em público, com registro honesto do que já entendo e do que ainda não.
 
 <!---
 NegativoPai/NegativoPai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
